@@ -128,5 +128,6 @@ LR_Delivery_Time_Prediction
 
 **Data Analyst | Power BI | Python | SQL | Excel**
 
-- **LinkedIn:** https://www.linkedin.com/in/btwitskartiksinghdatanalyst/
-- **GitHub:** https://github.com/T3MP35TT
+LinkedIn: *[Kartikey_Singh](https://www.linkedin.com/in/btwitskartiksinghdatanalyst/)*
+
+GitHub: *[Kartikey_Singh](https://github.com/T3MP35TT)*
