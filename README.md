@@ -134,4 +134,4 @@ GitHub: *[Kartikey_Singh](https://github.com/T3MP35TT)*
 
 Portfolio : *[Kartikey_Singh](https://sites.google.com/view/kartikeysingh09/home)*
 
-Complete WriteUp: Coming Soon.....
+Complete WriteUp: *[Delivery Time Estimation Using Linear Regression](https://medium.com/@kartikey.singh09/what-actually-makes-a-food-delivery-late-i-used-data-to-find-out-8ecd31b41372)*
