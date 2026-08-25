@@ -87,11 +87,11 @@ This repository contains:
 ## Repository Structure
 
 ```text
-LR_Delivery_Time_Prediction
+Delivery Time Estimation Using Linear Regression
 │
-├── LR_Delivery_Time_Prediction_Kartikey_Singh.ipynb
-├── LR_Delivery_Time_Prediction_Kartikey_Singh.pdf
-├── LR_Delivery_Time_Prediction_Kartikey_Singh.zip
+├── Delivery Time Estimation Using Linear Regression.ipynb
+├── Delivery Time Estimation Using Linear Regression.pdf
+├── Delivery Time Estimation Using Linear Regression.zip
 └── README.md
 ```
 
